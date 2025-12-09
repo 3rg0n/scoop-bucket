@@ -6,14 +6,14 @@
             "bin": [
                 "bjarne.exe"
             ],
-            "hash": "eb21e3e7fd74c2474d2d16c90632172eede97d3e57ef0a9d94c7247e06c498d5"
+            "hash": "bfdaaba3e4929b20143c8e6359ec3c667aacc8bb22376080c71fd01255fd4bdf"
         },
         "arm64": {
             "url": "https://github.com/3rg0n/bjarne/releases/download/v0.1.3/bjarne_0.1.3_windows_arm64.zip",
             "bin": [
                 "bjarne.exe"
             ],
-            "hash": "0799675bf30156be4b50183fe2694cee93502d7e7ccafb4178597ec43aefed90"
+            "hash": "98e1b5a368eb4fed0b6bc0f7dba06a56f18cf18dd107a36c04dc60a5f8af9d3d"
         }
     },
     "homepage": "https://github.com/3rg0n/bjarne",
